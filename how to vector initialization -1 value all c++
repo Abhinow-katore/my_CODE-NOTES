@@ -1,0 +1,6 @@
+vector<int>dp(nums.size()+1,-1);
+------------------------------------
+vector<int> vect1(10); //number of elements in vector.
+int value = 0;
+fill(vect1. begin(), vect1. end(), value);
+-----------------------------------------------
